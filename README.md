@@ -1,5 +1,3 @@
 # Project Euler solutions
-** 
-https://projecteuler.net/
-**
+**https://projecteuler.net/**
 
